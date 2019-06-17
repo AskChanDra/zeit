@@ -18,7 +18,7 @@ if($_GET){
 </head>
 <body>
   <h1>
-  Welcome to <?php echo $var; ?>
+  Welcome to Serverless Hosting  <?php echo $var; ?>
   </h1>
     
 </body>
